@@ -15,6 +15,7 @@ This project entitled “Hotel Management Software” has been developed with an
 Here MYSQL is the back end used. It the most popular Open Source SQL database management system, is developed, distributed, and supported by Oracle Corporation. MySQL is (as of December 2015) the world's second most widely used open-source relational database management system (RDBMS).It is named after co-founder Michael Widenius's daughter. The SQL phrase stands for Structured Query Language.
 The MySQL development project has made its source code available under the terms of the GNU General Public License, as well as under a variety of proprietary agreements. MySQL was owned and sponsored by a single for-profit firm, the Swedish company MySQL AB, now owned by Oracle Corporation
  
+ 
  <h1> LAYOUT DIAGRAM </h1>
 
   ![hotel](https://user-images.githubusercontent.com/60483148/135767570-084981c7-caa8-4e74-9316-1f5c5e0256b2.png)
